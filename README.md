@@ -7,8 +7,8 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 * 💬 Ask me about anything! 👍🏻
 
 ## Social
-[<img alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][LinkedIn]
-[<img alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][Twitter]
+[<img alt="LinkedIn" title="LinkedIn" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][LinkedIn]
+[<img alt="Twitter" title="Twitter" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][Twitter]
 
 [LinkedIn]: https://www.linkedin.com/in/ytkme/
 [Twitter]: https://twitter.com/YTKmee
