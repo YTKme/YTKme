@@ -1,4 +1,4 @@
-### Hi There! Yan です! 👋
+### Hi There! Yan です! 👋🏻
 
 I am a jack of many hobbies, master of some...from anime, manga, novel to game, photography, food, travel, technology, and many others....
 
@@ -8,6 +8,7 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 
 ## Social
 [<img alt="LinkedIn" title="LinkedIn" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][LinkedIn]
+&nbsp;
 [<img alt="Twitter" title="Twitter" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][Twitter]
 
 [LinkedIn]: https://www.linkedin.com/in/ytkme/
