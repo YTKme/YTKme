@@ -14,6 +14,7 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 
 ### Primary Weapon
 [<img alt="Visual Studio Code" title="Visual Studio Code" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">][VisualStudioCode]
+&nbsp;
 [<img alt="Python" title="Python" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">][Python]
 
 ### Secondary Weapon
