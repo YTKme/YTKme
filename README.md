@@ -5,7 +5,7 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 * 🔭 I’m currently working on API for various platform. 🧑🏻‍💻
 * 🌱 I’m currently learning everything! 🙃
 * 💬 Ask me about anything! 👍🏻
-* ⚡ Fun fact: The secret is...I'm always lazy...
+* ⚡ Fun fact: The secret is...I'm always lazy... 💤
 
 ### Social Not Social
 [<img alt="LinkedIn" title="LinkedIn" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][LinkedIn]
