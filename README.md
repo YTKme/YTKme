@@ -13,12 +13,12 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 [<img alt="Twitter" title="Twitter" width="24" src="res/img/twitter.svg">][Twitter]
 
 ### Primary Weapon
-[<img alt="Visual Studio Code" title="Visual Studio Code" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">][VisualStudioCode]
+[<img alt="Visual Studio Code" title="Visual Studio Code" width="24" src="res/img/visualstudiocode.svg">][VisualStudioCode]
 &nbsp;
-[<img alt="Python" title="Python" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">][Python]
+[<img alt="Python" title="Python" width="24" src="res/img/python.svg">][Python]
 
 ### Secondary Weapon
-[<img alt="PHP" title="PHP" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg">][PHP]
+[<img alt="PHP" title="PHP" width="24" src="res/img/php.svg">][PHP]
 
 
 [LinkedIn]: https://www.linkedin.com/in/ytkme/
