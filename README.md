@@ -8,9 +8,9 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 * ⚡ Fun fact: The secret is...I'm always lazy... 💤
 
 ### Social Not Social
-[<img alt="LinkedIn" title="LinkedIn" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][LinkedIn]
+[<img alt="LinkedIn" title="LinkedIn" width="24" src="res/img/linkedin.svg">][LinkedIn]
 &nbsp;
-[<img alt="Twitter" title="Twitter" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][Twitter]
+[<img alt="Twitter" title="Twitter" width="24" src="res/img/twitter.svg">][Twitter]
 
 ### Primary Weapon
 [<img alt="Visual Studio Code" title="Visual Studio Code" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">][VisualStudioCode]
