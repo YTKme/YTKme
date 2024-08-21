@@ -16,6 +16,11 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 [<img alt="Visual Studio Code" title="Visual Studio Code" width="24" src="res/img/visualstudiocode.svg">][VisualStudioCode]
 &nbsp;
 [<img alt="Python" title="Python" width="24" src="res/img/python.svg">][Python]
+&nbsp;
+<picture style="display: inline;">
+  <source media="(prefers-color-scheme: dark)" srcset="res/img/react_logo_dark.svg">
+  <img alt="React" width="24" src="res/img/react_logo_light.svg">
+</picture>
 
 ### Secondary Weapon
 [<img alt="PHP" title="PHP" width="24" src="res/img/php.svg">][PHP]
