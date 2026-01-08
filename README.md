@@ -33,3 +33,10 @@ I am a jack of many hobbies, master of some...from anime, manga, novel to game, 
 [VisualStudioCode]: https://code.visualstudio.com/
 
 [PHP]: https://www.php.net/
+
+### Statistic
+
+![GitHub Statistic: Overview](https://raw.githubusercontent.com/YTKme/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YTKme/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Statistic: Languages](https://raw.githubusercontent.com/YTKme/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YTKme/github-stats/master/generated/languages.svg#gh-light-mode-only)
